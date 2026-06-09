@@ -18,7 +18,27 @@ Built a machine learning model to predict whether a loan applicant will default,
 ## Data Visualization
 - Default Distribution
 
-  [!Default Distribution](https://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/default_bar_distribution.png)
+  ![Default Distribution](https://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/default_pie_distribution.png)
+
+- Numerical Univariate Analysis
+
+  ![Numerical Univariate Analysis](https://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/numerical_univariate_distribution.png)
+
+- Numerical Bivariate Analysis
+
+  ![Numerical Bivariate Analysis](http://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/numerical_bivariate_distribution.png)
+
+- Categorical Univariate Analysis
+
+  ![Categorical Univariate Analysis](https://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/categorical_univariate_distribution.png)
+
+- Categorical Bivariate Analysis
+
+  ![Categorical Bivariate Analysis](https://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/categorical_bivariate_distribution.png)
+
+- Feature Importance
+
+  ![Feature Importance](https://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/feature_importance.png)
 
 ## 🛠️ Tech Stack
 - Python, Pandas, NumPy  

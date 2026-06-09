@@ -15,6 +15,11 @@ Built a machine learning model to predict whether a loan applicant will default,
 - Includes demographics, financial profile, and loan details  
 - Default rate: ~11.6% (imbalanced dataset)
 
+## Data Visualization
+- Default Distribution
+
+  [!Default Distribution](https://github.com/virtual-arin/Loan-Default-Risk-Prediction/blob/main/images/default_bar_distribution.png)
+
 ## 🛠️ Tech Stack
 - Python, Pandas, NumPy  
 - Matplotlib, Seaborn  
